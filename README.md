@@ -6,3 +6,9 @@ Generate a bar chart or histogram to visually represent the distribution of a ca
 ## Dataset Description
 The dataset is an age-wise population distribution of India and its neighbouring countries, along with the total population of each country.
 Link: https://www.kaggle.com/datasets/elmoallistair/population-by-age-group-2021
+
+## Tools used
+1) Python Libraries
+   - pandas
+   - matplotlib
+2) Jupyter Notebook  
